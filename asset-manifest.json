@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://brighta19.github.io/csb-ow5h5/static/css/main.fa4629db.chunk.css",
+    "main.js": "https://brighta19.github.io/csb-ow5h5/static/js/main.327a08c2.chunk.js",
+    "main.js.map": "https://brighta19.github.io/csb-ow5h5/static/js/main.327a08c2.chunk.js.map",
+    "runtime-main.js": "https://brighta19.github.io/csb-ow5h5/static/js/runtime-main.33166d5c.js",
+    "runtime-main.js.map": "https://brighta19.github.io/csb-ow5h5/static/js/runtime-main.33166d5c.js.map",
+    "static/js/2.75895b5c.chunk.js": "https://brighta19.github.io/csb-ow5h5/static/js/2.75895b5c.chunk.js",
+    "static/js/2.75895b5c.chunk.js.map": "https://brighta19.github.io/csb-ow5h5/static/js/2.75895b5c.chunk.js.map",
+    "index.html": "https://brighta19.github.io/csb-ow5h5/index.html",
+    "static/css/main.fa4629db.chunk.css.map": "https://brighta19.github.io/csb-ow5h5/static/css/main.fa4629db.chunk.css.map",
+    "static/js/2.75895b5c.chunk.js.LICENSE.txt": "https://brighta19.github.io/csb-ow5h5/static/js/2.75895b5c.chunk.js.LICENSE.txt",
+    "static/media/TGF.37d10d8e.svg": "https://brighta19.github.io/csb-ow5h5/static/media/TGF.37d10d8e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33166d5c.js",
+    "static/js/2.75895b5c.chunk.js",
+    "static/css/main.fa4629db.chunk.css",
+    "static/js/main.327a08c2.chunk.js"
+  ]
+}
